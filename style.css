@@ -4,6 +4,9 @@ background: #CCCCCC
 p{
 text-align: center;
 }
+#missao {
+    style="text-align: center"
+}
 em strong{
 color: blue
 }
