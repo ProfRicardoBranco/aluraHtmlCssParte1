@@ -1,11 +1,14 @@
 body{
 background: #CCCCCC
 }
+h1{
+    style="text-align: center"  
+}
 p{
 text-align: center;
 }
 #missao {
-    style="text-align: center"
+    font-size: 20px; text-align: center;
 }
 em strong{
 color: blue
