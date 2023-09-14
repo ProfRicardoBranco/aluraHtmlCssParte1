@@ -3,7 +3,6 @@ background: #CCCCCC
 }
 #banner {
    width: 100%; 
-
 }
 .principal{
    background: #CCCCCC
@@ -29,5 +28,8 @@ font-style: italic
 h2{
    text-align: center
 }
+#imagembeneficios {
+   width: 50%; 
 
+}
 
