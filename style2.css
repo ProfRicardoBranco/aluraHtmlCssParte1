@@ -2,7 +2,7 @@ body {
   background-color: rgb(223, 145, 190); 
 } 
 #taytay { 
-  text-align: center;
+  align: middle;
   width: 30%; 
 } 
 h1 { 
