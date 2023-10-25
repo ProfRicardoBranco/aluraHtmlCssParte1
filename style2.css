@@ -3,18 +3,19 @@ body {
 } 
 
 .img-container {
-    
   text-align: center;
-        }
+  }
 
 .img-container img {
-        
   width: 30%;
-      }
+  }
 
 h1 { 
   text-align: center; 
-} p { text-align: center; 
+} 
+p
+{
+  text-align: center; 
     }
 #missao { 
   font-size: 20px; 
