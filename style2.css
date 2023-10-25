@@ -3,10 +3,14 @@ body {
 } 
 
 .img-container {
-  width: 30%;
-     
+    
   text-align: center;
         }
+
+.img-container.img {
+        
+  width: 30%;
+      }
 
 h1 { 
   text-align: center; 
