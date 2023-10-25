@@ -1,11 +1,12 @@
 body { 
   background-color: rgb(223, 145, 190); 
 } 
-.taytay { 
-  
+
+.img-container {
+        text-align: center;
   width: 30%;
-  text-align: center;  
-} 
+      }
+
 h1 { 
   text-align: center; 
 } p { text-align: center; 
