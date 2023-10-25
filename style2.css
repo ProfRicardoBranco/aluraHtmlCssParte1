@@ -3,9 +3,10 @@ body {
 } 
 
 .img-container {
-        text-align: center;
   width: 30%;
-      }
+     
+  text-align: center;
+        }
 
 h1 { 
   text-align: center; 
