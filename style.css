@@ -47,7 +47,9 @@ ul {
 	width: 50%;
 }
 .caixa {
+	
 	position: relative;
+	display: inline;
 	width: 940px;
 	margin: 0 auto;
 }
