@@ -15,6 +15,10 @@ nav {
 	right: 0;
 }
 
+nav ul {
+	display: inline;
+}
+
 nav li {
 	display: inline;
 	margin: 0 0 0 15px;
