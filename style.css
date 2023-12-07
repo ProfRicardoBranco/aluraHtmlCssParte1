@@ -49,12 +49,13 @@ ul {
 .caixa {
 	
 	position: relative;
-	display: inline;
+	
 	width: 940px;
 	margin: 0 auto;
 }
 
 nav {
+	display: inline;
 	position: absolute;
 	top: 110px;
 	right: 0;
